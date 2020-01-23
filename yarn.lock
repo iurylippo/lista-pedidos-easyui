@@ -8432,6 +8432,11 @@ raw-body@2.4.0:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
+rc-easyui@^1.0.47:
+  version "1.0.47"
+  resolved "https://registry.yarnpkg.com/rc-easyui/-/rc-easyui-1.0.47.tgz#18cb7affb01ae8d5c47c953bff054bc93b093a7b"
+  integrity sha512-8P0mNaCYXnuzyEPAtHbYOw2uBIpFrYjY2NNOACbBripv79g6FB+vf2UZDGdH5wuzO6cnANFZDUZS/93ifNCv6Q==
+
 rc@^1.2.7:
   version "1.2.8"
   resolved "https://registry.yarnpkg.com/rc/-/rc-1.2.8.tgz#cd924bf5200a075b83c188cd6b9e211b7fc0d3ed"
