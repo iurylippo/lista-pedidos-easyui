@@ -1,4 +1,71 @@
 
-const dados = [{
-    "pedidoNumero":"3366", "clienteCodigo":"PE0002", "clienteRazaoSocial":"FIGUEIRAS", "pedidoGrupoResp":"Financeriro", "vendedorCodigo":""
-}]
+const dados = [
+    {
+        "pedidoNumero":"3366",
+        "pedidoData": "22-22-2222",
+        "pedidoHora": "22:22:22",
+        "pedidoEnvio": "23:23:23",
+        "pedidoGrupoResp":"Financeriro",
+        "pedidoPeso": "55.0",
+        "pedidoValor": "864.22",
+        "pedidoStatus": "não aprovado",
+        "pedidoTipo": "venda",
+        "pedidoVerba": "não",
+        "pedidoNumeroErp": "",
+        "pedidoExportadoErp": "não",
+        "clienteCodigo":"3202454",
+        "clienteRazaoSocial":"FIGUEIRAS",
+        "clienteCodigoCanal": "ATC",
+        "clienteDescricaoCanal": "atacado",
+        "vendedorCodigo":"PE0002",
+        "vendedorNome": "Fulano",
+        "unidadeFaturamentoCodigo": "MG",
+        "unidadeFaturamentoDescricao": "ARAGUARI - MAG"
+    },
+    {
+        "pedidoNumero":"3367",
+        "pedidoData": "22-22-2222",
+        "pedidoHora": "22:22:22",
+        "pedidoEnvio": "23:23:23",
+        "pedidoGrupoResp":"Financeriro",
+        "pedidoPeso": "55.0",
+        "pedidoValor": "864.22",
+        "pedidoStatus": "não aprovado",
+        "pedidoTipo": "venda",
+        "pedidoVerba": "não",
+        "pedidoNumeroErp": "",
+        "pedidoExportadoErp": "não",
+        "clienteCodigo":"3202454",
+        "clienteRazaoSocial":"DOMINGAS",
+        "clienteCodigoCanal": "ATC",
+        "clienteDescricaoCanal": "atacado",
+        "vendedorCodigo":"PE0002",
+        "vendedorNome": "Fulano",
+        "unidadeFaturamentoCodigo": "MG",
+        "unidadeFaturamentoDescricao": "ARAGUARI - MAG"
+    },
+    {
+        "pedidoNumero":"3368",
+        "pedidoData": "22-22-2222",
+        "pedidoHora": "22:22:22",
+        "pedidoEnvio": "23:23:23",
+        "pedidoGrupoResp":"Financeriro",
+        "pedidoPeso": "55.0",
+        "pedidoValor": "864.22",
+        "pedidoStatus": "não aprovado",
+        "pedidoTipo": "venda",
+        "pedidoVerba": "não",
+        "pedidoNumeroErp": "",
+        "pedidoExportadoErp": "não",
+        "clienteCodigo":"3202454",
+        "clienteRazaoSocial":"ATACADO",
+        "clienteCodigoCanal": "ATC",
+        "clienteDescricaoCanal": "atacado",
+        "vendedorCodigo":"PE0002",
+        "vendedorNome": "Fulano",
+        "unidadeFaturamentoCodigo": "MG",
+        "unidadeFaturamentoDescricao": "ARAGUARI - MAG"
+    }
+]
+
+export default dados;
