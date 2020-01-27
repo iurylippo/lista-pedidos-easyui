@@ -245,7 +245,7 @@ const dados = [
 ];
 
 const footer = [
-      {pedidoValor: "R$ 19.8"},
+      {pedidoValor: "Total:"},
       {pedidoValor: "R$ 198.0"}
     ];
   
